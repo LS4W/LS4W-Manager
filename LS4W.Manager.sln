@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS4W.Manager.Domain", "LS4W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS4W.Manager.Application", "LS4W.Manager.Application\LS4W.Manager.Application.csproj", "{CFF79738-326F-46A4-B997-004A2AC648DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS4W.Manager.Presentation", "LS4W.Manager.Presentation\LS4W.Manager.Presentation.csproj", "{05B1A339-0C59-42E7-B110-E8AA6348436A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{CFF79738-326F-46A4-B997-004A2AC648DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF79738-326F-46A4-B997-004A2AC648DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF79738-326F-46A4-B997-004A2AC648DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B1A339-0C59-42E7-B110-E8AA6348436A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B1A339-0C59-42E7-B110-E8AA6348436A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B1A339-0C59-42E7-B110-E8AA6348436A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B1A339-0C59-42E7-B110-E8AA6348436A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
