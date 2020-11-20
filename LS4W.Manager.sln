@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS4W.Manager", "LS4W.Manager\LS4W.Manager.csproj", "{E68221A7-4A25-4D42-8F6C-F1E9940BE212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS4W.Manager.Domain", "LS4W.Manager.Domain\LS4W.Manager.Domain.csproj", "{090F1FA3-C927-4A1D-B420-05510B88AA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LS4W.Manager.Application", "LS4W.Manager.Application\LS4W.Manager.Application.csproj", "{CFF79738-326F-46A4-B997-004A2AC648DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E68221A7-4A25-4D42-8F6C-F1E9940BE212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68221A7-4A25-4D42-8F6C-F1E9940BE212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68221A7-4A25-4D42-8F6C-F1E9940BE212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68221A7-4A25-4D42-8F6C-F1E9940BE212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090F1FA3-C927-4A1D-B420-05510B88AA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090F1FA3-C927-4A1D-B420-05510B88AA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090F1FA3-C927-4A1D-B420-05510B88AA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090F1FA3-C927-4A1D-B420-05510B88AA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF79738-326F-46A4-B997-004A2AC648DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF79738-326F-46A4-B997-004A2AC648DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF79738-326F-46A4-B997-004A2AC648DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF79738-326F-46A4-B997-004A2AC648DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
